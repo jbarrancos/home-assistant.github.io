@@ -26,7 +26,7 @@ rainbird:
 
 {% configuration %}
 host:
-  description: v
+  description: The IP address of your LNK WiFi Module.
   required: true
   type: string
 password:
